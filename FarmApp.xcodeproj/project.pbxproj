@@ -11,6 +11,7 @@
 		818FB6472B27A488003AB922 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818FB6462B27A488003AB922 /* ContentView.swift */; };
 		818FB6492B27A489003AB922 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 818FB6482B27A489003AB922 /* Assets.xcassets */; };
 		818FB64D2B27A489003AB922 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 818FB64C2B27A489003AB922 /* Preview Assets.xcassets */; };
+		818FB6542B28DCD2003AB922 /* FarmButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818FB6532B28DCD2003AB922 /* FarmButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		818FB6482B27A489003AB922 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		818FB64A2B27A489003AB922 /* FarmApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FarmApp.entitlements; sourceTree = "<group>"; };
 		818FB64C2B27A489003AB922 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		818FB6532B28DCD2003AB922 /* FarmButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarmButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				818FB6442B27A488003AB922 /* FarmAppApp.swift */,
 				818FB6462B27A488003AB922 /* ContentView.swift */,
+				818FB6532B28DCD2003AB922 /* FarmButton.swift */,
 				818FB6482B27A489003AB922 /* Assets.xcassets */,
 				818FB64A2B27A489003AB922 /* FarmApp.entitlements */,
 				818FB64B2B27A489003AB922 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				818FB6542B28DCD2003AB922 /* FarmButton.swift in Sources */,
 				818FB6472B27A488003AB922 /* ContentView.swift in Sources */,
 				818FB6452B27A488003AB922 /* FarmAppApp.swift in Sources */,
 			);
